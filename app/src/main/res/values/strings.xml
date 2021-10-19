@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="weather">Weather</string>
+    <string name="wind">Wind</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="temperature">Temperature</string>
+    <string name="eddit_city">Eddit city</string>
+    <string name="view_weather">View Weather</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Приложение погода</string>
+    <string name="weather">Погода</string>
+    <string name="wind">Ветер</string>
+    <string name="wind_speed">Скорость ветра</string>
+    <string name="temperature">Температура</string>
+    <string name="eddit_city">Введите город</string>
+    <string name="view_weather">Показать погоду</string>
+</resources>
