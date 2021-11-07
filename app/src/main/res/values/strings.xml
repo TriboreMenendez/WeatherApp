@@ -4,6 +4,8 @@
     <string name="wind">Wind</string>
     <string name="wind_speed">Wind speed</string>
     <string name="temperature">Temperature</string>
-    <string name="eddit_city">Eddit city</string>
+    <string name="eddit_city">Edit city</string>
     <string name="view_weather">View Weather</string>
+    <string name="today">Today</string>
+    <string name="city">City</string>
 </resources>

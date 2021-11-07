@@ -5,9 +5,10 @@ import com.example.weatherapp.feature.weather_screen.domain.model.WeatherDomainM
 
 fun WeatherModel.toDomain(): WeatherDomainModel {
     return WeatherDomainModel(
-        this.main.temp,
-        this.main.tempMax,
-        this.wind.speed,
-        this.wind.deg
+        main.temp,
+        main.tempMax,
+        main.tempMin,
+        wind.speed,
+        wind.deg
     )
 }
